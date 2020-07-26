@@ -1,3 +1,4 @@
+//test
 import React from 'react';
 class Voter extends React.Component{
     constructor(){
